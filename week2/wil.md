@@ -7,3 +7,5 @@
     - Merge Commit : 브랜치 내의 커밋들을 부모로 하는 커밋을 만들음.
     - Squash and Merge : 브랜치 내의 커밋들을 묶어버림.
     - Rebase and Merge : 브랜치 내의 커밋들을 다 따로따로 해버림.
+
+<https://github.com/LeeHeoJae/2025-1-Beginner-Study/issues/1>
